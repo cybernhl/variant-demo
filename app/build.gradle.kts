@@ -37,7 +37,6 @@ dependencies {
 
     // actuator
     "actuatorImplementation"(project(":app"))
-    "actuatorImplementation"("org.springframework.boot:spring-boot-starter-web")
     "actuatorImplementation"("org.springframework.boot:spring-boot-starter-actuator")
 }
 
